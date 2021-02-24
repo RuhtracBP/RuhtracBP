@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhtracBP&theme=radical)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhtracBP&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhtracBP&layout=compact&theme=radical)](https://github.com/RuhtracBP/github-readme-stats)
 
 ---
 
