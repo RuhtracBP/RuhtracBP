@@ -47,5 +47,3 @@ Sou dev fullstack na **Amigo Tech**, em Recife. Construo produtos web com Larave
 
 ## Contact
 [LinkedIn](https://linkedin.com/in/arthurcbp) · [Portfolio](https://portfolio-ruhtracbp.vercel.app/) · [Email](mailto:arthurhcbp@gmail.com)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruhtracbp&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
