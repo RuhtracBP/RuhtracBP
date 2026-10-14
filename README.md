@@ -18,7 +18,7 @@ Fullstack developer at **Amigo Tech**, based in Recife, Brazil. I build web prod
 
 Sou dev fullstack na **Amigo Tech**, em Recife. Construo produtos web com Laravel e React, e ferramentas de desenvolvimento que trazem agentes de IA para o dia a dia.
 
-- **Agora:** [devctl](https://github.com/RuhtracBP/devctl), app desktop que dá uma UI ao vivo para os scripts de ambiente de dev, e uma base de conhecimento no Obsidian em que agentes propõem notas e eu reviso.
+- **Agora:** [devctl](https://github.com/RuhtracBP/devctl), app desktop que dá uma UI ao vivo para os scripts de ambiente de dev, e o [devflow-skills](https://github.com/RuhtracBP/devflow-skills), workflows de agentes com uma wiki do projeto em que os agentes propõem conhecimento e um humano aprova.
 - **Estudando:** Rust e ferramentas de desenvolvimento.
 - **Fora do código:** toco piano.
 
@@ -26,7 +26,7 @@ Sou dev fullstack na **Amigo Tech**, em Recife. Construo produtos web com Larave
 
 ## Building now
 - **[devctl](https://github.com/RuhtracBP/devctl)**: a desktop UI for managing local dev environments and Git worktrees, powered by your project's existing scripts. Built with Tauri, Rust and React.
-- **LLM Wiki** *(personal experiment)*: an Obsidian knowledge base where AI agents draft notes from my projects and I review every one before it becomes documentation.
+- **[devflow-skills](https://github.com/RuhtracBP/devflow-skills)**: agent workflows that build up project knowledge. A human-gated wiki in your repo, plus ticket-to-PR and PR review flows that consult it before acting and propose what they learned. Claude Code plugin + Codex skills.
 
 ## Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
